@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[klf:home|Door43 (klf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-klf|d43-klf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-klf/archive/master.zip|d43-klf.zip]]
+
+**Recent Changes**
+{{changes>ns = klf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/klf|Ethnologue data]]
+
